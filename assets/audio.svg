@@ -1,0 +1,20 @@
+<svg class="class-art" viewBox="0 0 300 240" role="img" aria-label="Illustration cartoon : cassette audio, notes de musique et crayon">
+  <path d="M35 85 Q7 145 62 197 Q130 245 226 196 Q289 160 265 91 Q233 22 157 32 Q60 15 35 85Z" fill="#b6d99b"/>
+  <g transform="rotate(-8 144 137)" stroke="#302b43" stroke-width="3" stroke-linejoin="round">
+    <rect x="41" y="71" width="210" height="140" rx="12" fill="#302b43"/>
+    <rect x="35" y="65" width="210" height="140" rx="12" fill="#f6a4c9"/>
+    <rect x="48" y="78" width="184" height="77" rx="7" fill="#fffdf1"/>
+    <path d="M65 94 H162 M65 104 H197" stroke="#367c92" stroke-width="2"/>
+    <rect x="78" y="116" width="126" height="25" rx="12" fill="#94cddd"/>
+    <circle cx="90" cy="128" r="15" fill="#ffda57"/><circle cx="190" cy="128" r="15" fill="#ffda57"/>
+    <path d="M85 128 H95 M90 123 V133 M185 128 H195 M190 123 V133"/>
+    <path d="M80 173 H201 L211 195 H70Z" fill="#f8a06d"/>
+    <circle cx="52" cy="185" r="3" fill="#302b43"/><circle cx="228" cy="185" r="3" fill="#302b43"/>
+  </g>
+  <g stroke="#302b43" stroke-width="4" fill="#94cddd" stroke-linecap="round">
+    <path d="M76 52 V25 L102 19 V46" fill="none"/><ellipse cx="69" cy="53" rx="8" ry="6"/><ellipse cx="95" cy="47" rx="8" ry="6"/>
+    <path d="M243 57 V29 L258 37" fill="none"/><ellipse cx="236" cy="58" rx="8" ry="6"/>
+  </g>
+  <path d="M21 116 L11 113 M266 146 L280 142 M164 21 L168 31 M174 20 L178 27" stroke="#302b43" stroke-width="3" stroke-linecap="round"/>
+  <g transform="rotate(7 218 91)"><rect x="195" y="68" width="90" height="32" rx="9" fill="#ffda57" stroke="#302b43" stroke-width="2.5"/><text x="240" y="90" text-anchor="middle" fill="#302b43" font-family="Comic Sans MS, cursive" font-weight="bold" font-size="16">Psst… ♪</text></g>
+</svg>
