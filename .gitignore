@@ -1,0 +1,69 @@
+# Environnements Python locaux
+.venv/
+venv/
+env/
+.env/
+.venv-*/
+
+# Bytecode, caches et construction des paquets
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+/build/
+/dist/
+
+# Tests, couverture et outils Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.hypothesis/
+
+# Secrets locaux (les exemples sans secrets restent versionnables)
+.env
+.env.*
+!.env.example
+!.env.sample
+.streamlit/secrets.toml
+.streamlit/secrets.*.toml
+
+# Configuration personnelle des éditeurs et du système
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Journaux, fichiers temporaires et sauvegardes locales
+*.log
+*.tmp
+*.temp
+/.local-backups/
+/tmp/
+/temp/
+
+# Imports privés et résultats de stéganographie : utiliser ces dossiers
+/uploads/
+/output/
+/outputs/
+/downloads/
+/private/
+
+# Sorties des exemples de l'API du README
+/secret.png
+/secret.wav
+/secret.mkv
+/efreigma-secret.*
+
+# Conserver assets/, examples/, tests/ et .streamlit/config.toml dans Git.
